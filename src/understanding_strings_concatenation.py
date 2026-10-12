@@ -26,10 +26,10 @@ print(message)
 print("Python")
 print("\tPython")
 print("\t\tPython")
-print("Lengujes:\n\tPython\n\tC\nJavaScript")
+print("Lenguajes:\n\tPython\n\tC\nJavaScript")
 
 # f-strings
 famous_person = "Angel Euresti"
-message = f"{famous_person} una vez dijo {strings}" 
+message = f"{famous_person} una vez dijo " 
 
 
